@@ -1,0 +1,17 @@
+{
+  "type": "content",
+  "name": "Movable Rapid Water",
+  "modid": "movablerapidwater",
+  "version": "1.0.0",
+
+  "description": "Lets you pick up rapid water.",
+  "authors": [ "Moist_Outlier" ],
+
+  "dependencies": {
+    "game": "*"
+  },
+
+  "side" : "universal",
+  "requiredOnClient": true,
+  "requiredOnServer": true
+}
