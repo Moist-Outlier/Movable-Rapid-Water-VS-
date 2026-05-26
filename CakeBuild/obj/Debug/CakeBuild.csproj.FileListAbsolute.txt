@@ -1,5 +1,0 @@
-/home/water/Documents/Modding/Vintage Story/Movable Rapid Water/CakeBuild/obj/Debug/CakeBuild.csproj.AssemblyReference.cache
-/home/water/Documents/Modding/Vintage Story/Movable Rapid Water/CakeBuild/obj/Debug/CakeBuild.GeneratedMSBuildEditorConfig.editorconfig
-/home/water/Documents/Modding/Vintage Story/Movable Rapid Water/CakeBuild/obj/Debug/CakeBuild.AssemblyInfoInputs.cache
-/home/water/Documents/Modding/Vintage Story/Movable Rapid Water/CakeBuild/obj/Debug/CakeBuild.AssemblyInfo.cs
-/home/water/Documents/Modding/Vintage Story/Movable Rapid Water/CakeBuild/obj/Debug/CakeBuild.csproj.CoreCompileInputs.cache
