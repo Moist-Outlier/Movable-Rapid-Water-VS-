@@ -1,0 +1,14 @@
+[
+    {
+        "file": "game:blocktypes/liquid/rapidwater.json",
+        "path": "/attributes/waterTightContainerProps/whenFilled/stack/code",
+        "op": "replace",
+        "value": "movablerapidwater:rapidwaterportion"
+    },
+	    {
+        "file": "game:blocktypes/liquid/rapidwater.json",
+        "path": "/liquidCode",
+        "op": "replace",
+        "value": "movablerapidwater:rapidwater"
+    }
+]
